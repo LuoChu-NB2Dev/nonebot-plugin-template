@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <img src="https://raw.githubusercontent.com/lgc-NB2Dev/readme/main/template/plugin.svg" alt="NoneBotPluginText">
+  <img src="https://raw.githubusercontent.com/LuoChu-NB2Dev/readme/main/template/plugin.svg" alt="NoneBotPluginText">
 </p>
 
 # nonebot-plugin-example
@@ -34,7 +34,7 @@ _✨ NoneBot 插件简单描述 ✨_
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/lgc-NB2Dev/readme/main/template/pyd-v1-or-v2.json" alt="Pydantic Version 1 Or 2" >
 </a>
 <a href="./LICENSE">
-  <img src="https://img.shields.io/github/license/lgc-NB2Dev/nonebot-plugin-example.svg" alt="license">
+  <img src="https://img.shields.io/github/license/LuoChu-NB2Dev/nonebot-plugin-example.svg" alt="license">
 </a>
 <a href="https://pypi.python.org/pypi/nonebot-plugin-example">
   <img src="https://img.shields.io/pypi/v/nonebot-plugin-example.svg" alt="pypi">
@@ -156,10 +156,11 @@ plugins = [
 
 ## 📞 联系
 
-QQ：3076823485  
-Telegram：[@lgc2333](https://t.me/lgc2333)  
-吹水群：[1105946125](https://jq.qq.com/?_wv=1027&k=Z3n1MpEp)  
-邮箱：<lgc2333@126.com>
+QQ：3214528055  
+Discord：[@洛初](https://discordapp.com/users/959299637049700355)  
+Telegram：[@Furinature](https://t.me/Furinature)  
+吹水群：[611124274](https://qm.qq.com/q/BS2k2XIfxS)  
+邮箱：<gongfuture@outlook.com>
 
 ## 💡 鸣谢
 
@@ -167,7 +168,7 @@ Telegram：[@lgc2333](https://t.me/lgc2333)
 
 ## 💰 赞助
 
-**[赞助我](https://blog.lgc2333.top/donate)**
+**[赞助我](https://afdian.com/a/luochu)**
 
 感谢大家的赞助！你们的赞助将是我继续创作的动力！
 
