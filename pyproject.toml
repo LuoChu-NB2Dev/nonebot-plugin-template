@@ -1,29 +1,22 @@
-[tool.poetry]
+[project]
 name = "nonebot-plugin-example"
-version = "0.0.0"  # 将被动态替换
+dynamic = ["version"]
 description = "Template plugin project"
-authors = ["gongfuture <gongfuture@outlook.com>"]
+authors = [{ name = "gongfuture", email = "gongfuture@outlook.com" }]
+dependencies = ["nonebot2>=2.4.3", "nonebot-plugin-alconna>=0.59.4"]
+requires-python = ">=3.10,<4.0"
 readme = "README.md"
-license = "MIT"
-packages = [{include = "nonebot_plugin_example"}]
+license = { text = "MIT" }
 
-[tool.poetry.urls]
+[project.urls]
 homepage = "https://github.com/LuoChu-NB2Dev/nonebot-plugin-example"
 
-[tool.poetry.dependencies]
-python = ">=3.9,<4.0"
-nonebot2 = ">=2.4.1"
-nonebot-plugin-alconna = ">=0.54.2"
-
-[tool.poetry.group.dev.dependencies]
-# 开发依赖
+[dependency-groups]
+dev = []
 
 [build-system]
-requires = ["poetry-core>=1.0.0", "poetry-dynamic-versioning>=1.0.0"]
-build-backend = "poetry_dynamic_versioning.backend"
+requires = ["hatchling"]
+build-backend = "hatchling.build"
 
-[tool.poetry_dynamic_versioning]
-enable = true
-vcs = "git"
-pattern = '(?:__version__ = ["\'])([^"\']+)(?:["\'])'
+[tool.hatch.version]
 path = "nonebot_plugin_example/__init__.py"
