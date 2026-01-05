@@ -168,9 +168,14 @@ Telegram：[@Furinature](https://t.me/Furinature)
 
 ## 💰 赞助
 
-**[赞助我](https://afdian.com/a/luochu)**
+**[赞助我](https://s.luochu.cc/afdian)**
+
+<!-- AFDIAN-ACTION:START -->
+<!-- AFDIAN-ACTION:END -->
 
 感谢大家的赞助！你们的赞助将是我继续创作的动力！
+
+本项目使用 [afdian-action](https://github.com/yiyungent/afdian-action) 自动更新赞助者列表
 
 ## 📝 更新日志
 
